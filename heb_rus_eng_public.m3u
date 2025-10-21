@@ -1,0 +1,72 @@
+#EXTM3U
+# Playlist: Hebrew + Russian + English TV & Radio - Public/free streams
+
+# === Language collections (iptv-org) ===
+#EXTINF:-1 group-title="Languages" tvg-name="IPTV-ORG - Hebrew",Hebrew (iptv-org)
+https://iptv-org.github.io/iptv/languages/heb.m3u
+#EXTINF:-1 group-title="Languages" tvg-name="IPTV-ORG - Russian",Russian (iptv-org)
+https://iptv-org.github.io/iptv/languages/rus.m3u
+#EXTINF:-1 group-title="Languages" tvg-name="IPTV-ORG - English",English (iptv-org)
+https://iptv-org.github.io/iptv/languages/eng.m3u
+
+# === Categories (iptv-org) ===
+#EXTINF:-1 group-title="Categories" tvg-name="IPTV-ORG - News",News (iptv-org)
+https://iptv-org.github.io/iptv/categories/news.m3u
+#EXTINF:-1 group-title="Categories" tvg-name="IPTV-ORG - Movies",Movies (iptv-org)
+https://iptv-org.github.io/iptv/categories/movies.m3u
+#EXTINF:-1 group-title="Categories" tvg-name="IPTV-ORG - Music",Music (iptv-org)
+https://iptv-org.github.io/iptv/categories/music.m3u
+
+# === Direct official TV streams ===
+#EXTINF:-1 group-title="Israel" tvg-name="Kan 11",Kan 11 (Public Broadcaster)
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/playlist.m3u8
+#EXTINF:-1 group-title="Israel" tvg-name="i24news English",i24news English
+https://www.i24news.tv/en/live
+#EXTINF:-1 group-title="News (EN)" tvg-name="Al Jazeera English",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 group-title="News (EN)" tvg-name="DW English",DW English
+https://dwamdstream108.akamaized.net/hls/live/2015530/dwstream108/index.m3u8
+#EXTINF:-1 group-title="News (EN)" tvg-name="France 24 English",France 24 English
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+# === Radio & Audio (Hebrew) ===
+#EXTINF:-1 group-title="Radio & Audio" tvg-name="Reshet Bet",כאן ב׳ (Reshet Bet)
+https://kanliveicy.media.kan.org.il/icy/kanbet_mp3
+#EXTINF:-1 group-title="Radio & Audio" tvg-name="Kan Gimmel",כאן ג׳ (Kan Gimmel)
+https://kanliveicy.media.kan.org.il/icy/kangimmel_mp3
+#EXTINF:-1 group-title="Radio & Audio" tvg-name="Kan 88FM",כאן 88FM
+https://kanliveicy.media.kan.org.il/icy/88fm_mp3
+#EXTINF:-1 group-title="Radio & Audio" tvg-name="Galgalatz",גלגלצ
+https://glzwizzlv.bynetcdn.com/glglz_mp3
+#EXTINF:-1 group-title="Radio & Audio" tvg-name="Galei Tzahal",גלי צה״ל
+https://glzwizzlv.bynetcdn.com/galey_israel_mp3
+#EXTINF:-1 group-title="Radio & Audio" tvg-name="Eco99FM",Eco99FM
+https://eco01.cdnwz.net/eco99fm_128
+#EXTINF:-1 group-title="Radio & Audio" tvg-name="Radio Tel Aviv 102FM",Radio Tel Aviv 102FM
+https://cdn.cybercdn.live/102fm/Live/icecast.audio
+
+# === Radio & Audio (Russian) ===
+#EXTINF:-1 group-title="Radio & Audio" tvg-name="Radio Svoboda",Радио Свобода
+https://rfe-channel-02.akacast.akamaistream.net/7/763/437763/v1/ibb.akacast.akamaistream.net/rfe_channel_02.mp3
+#EXTINF:-1 group-title="Radio & Audio" tvg-name="Echo Moscow",Эхо Москвы (Радио Эхо)
+https://echomoscow.hostingradio.ru/echo128.mp3
+#EXTINF:-1 group-title="Radio & Audio" tvg-name="Russkaya Volna",Радио Русская Волна
+https://icecast.russkoeradio.eu/russianwave.mp3
+#EXTINF:-1 group-title="Radio & Audio" tvg-name="Vesti FM",Радио Вести FM
+https://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_128kbps
+#EXTINF:-1 group-title="Radio & Audio" tvg-name="Orfey FM",Радио Орфей
+https://orfeyfm.hostingradio.ru/orfeyfm128.mp3
+#EXTINF:-1 group-title="Radio & Audio" tvg-name="Relax FM",Радио Relax FM
+https://ic7.101.ru:8000/v7_1?userid=0
+
+# === Radio & Audio (English) ===
+#EXTINF:-1 group-title="Radio & Audio" tvg-name="BBC World Service",BBC World Service
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+#EXTINF:-1 group-title="Radio & Audio" tvg-name="NPR News",NPR News (USA)
+https://npr-ice.streamguys1.com/live.mp3
+#EXTINF:-1 group-title="Radio & Audio" tvg-name="Radio Paradise",Radio Paradise
+https://stream.radioparadise.com/mp3-192
+#EXTINF:-1 group-title="Radio & Audio" tvg-name="Classic FM",Classic FM (UK)
+https://media-ice.musicradio.com/ClassicFMMP3
+
+# === End of file ===
